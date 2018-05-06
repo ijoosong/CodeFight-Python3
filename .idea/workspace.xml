@@ -25,8 +25,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="rearrangeLastN.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rearrangeLastN.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LinkedLists/rearrangeLastN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="65" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="groupingDishes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HashTable/groupingDishes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -58,6 +68,7 @@
         <option value="$PROJECT_DIR$/LinkedLists/mergeTwoLinkedLists.py" />
         <option value="$PROJECT_DIR$/LinkedLists/reverseNodesInKGroups.py" />
         <option value="$PROJECT_DIR$/LinkedLists/rearrangeLastN.py" />
+        <option value="$PROJECT_DIR$/HashTable/groupingDishes.py" />
       </list>
     </option>
   </component>
@@ -118,6 +129,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="LinkedLists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HashTable" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -516,6 +541,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedLists/rearrangeLastN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="65" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTable/groupingDishes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
