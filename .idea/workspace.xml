@@ -25,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="areFollowingPatterns.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="areFollowingPatterns.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HashTable/areFollowingPatterns.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="96" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="containsCloseNums.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HashTable/containsCloseNums.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,6 +70,7 @@
         <option value="$PROJECT_DIR$/LinkedLists/rearrangeLastN.py" />
         <option value="$PROJECT_DIR$/HashTable/groupingDishes.py" />
         <option value="$PROJECT_DIR$/HashTable/areFollowingPatterns.py" />
+        <option value="$PROJECT_DIR$/HashTable/containsCloseNums.py" />
       </list>
     </option>
   </component>
@@ -550,7 +561,15 @@
     <entry file="file://$PROJECT_DIR$/HashTable/areFollowingPatterns.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="96" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTable/containsCloseNums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
