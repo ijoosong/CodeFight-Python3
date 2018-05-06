@@ -25,8 +25,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="addTwoHugeNumbers.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="addTwoHugeNumbers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LinkedLists/addTwoHugeNumbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1052">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mergeTwoLinkedLists.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LinkedLists/mergeTwoLinkedLists.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -55,6 +65,7 @@
         <option value="$PROJECT_DIR$/LinkedLists/removeKFromList.py" />
         <option value="$PROJECT_DIR$/LinkedLists/isListPalindrome.py" />
         <option value="$PROJECT_DIR$/LinkedLists/addTwoHugeNumbers.py" />
+        <option value="$PROJECT_DIR$/LinkedLists/mergeTwoLinkedLists.py" />
       </list>
     </option>
   </component>
@@ -489,6 +500,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedLists/addTwoHugeNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1052">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedLists/mergeTwoLinkedLists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
