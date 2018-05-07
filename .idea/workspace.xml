@@ -25,8 +25,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="findProfession.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Trees/findProfession.py">
+      <file leaf-file-name="kthSmallestInBST.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Trees/kthSmallestInBST.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -66,6 +66,7 @@
         <option value="$PROJECT_DIR$/Trees/hasPathWithGivenSum.py" />
         <option value="$PROJECT_DIR$/Trees/isSymmetric.py" />
         <option value="$PROJECT_DIR$/Trees/findProfession.py" />
+        <option value="$PROJECT_DIR$/Trees/kthSmallestInBST.py" />
       </list>
     </option>
   </component>
@@ -616,6 +617,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Trees/findProfession.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/kthSmallestInBST.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
