@@ -35,8 +35,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="isSubtree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="isSubtree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Trees/isSubtree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restoreBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Trees/restoreBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -78,6 +88,7 @@
         <option value="$PROJECT_DIR$/Trees/findProfession.py" />
         <option value="$PROJECT_DIR$/Trees/kthSmallestInBST.py" />
         <option value="$PROJECT_DIR$/Trees/isSubtree.py" />
+        <option value="$PROJECT_DIR$/Trees/restoreBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -644,6 +655,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Trees/isSubtree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/restoreBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
