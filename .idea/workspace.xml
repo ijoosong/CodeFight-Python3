@@ -25,8 +25,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hasPathWithGivenSum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hasPathWithGivenSum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Trees/hasPathWithGivenSum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="isSymmetric.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Trees/isSymmetric.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -64,6 +74,7 @@
         <option value="$PROJECT_DIR$/HashTable/possibleSums.py" />
         <option value="$PROJECT_DIR$/HashTable/swapLexOrder.py" />
         <option value="$PROJECT_DIR$/Trees/hasPathWithGivenSum.py" />
+        <option value="$PROJECT_DIR$/Trees/isSymmetric.py" />
       </list>
     </option>
   </component>
@@ -598,6 +609,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Trees/hasPathWithGivenSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/isSymmetric.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
