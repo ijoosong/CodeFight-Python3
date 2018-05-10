@@ -31,12 +31,13 @@ def firstDuplicate2(a):
 def firstDuplicate(a):
     d = {}
     ans = -1
-    for i in range(len(a)):
-        if a[i] in d.keys():
-            ans = a[i]
+    for num in a:
+        if num in d:
+            ans = num
             break
         else:
-            d[a[i]] = i
+            d[num] = 1
     return ans
 
 print(firstDuplicate([2, 3, 4, 3, 5, 2]))
+    
